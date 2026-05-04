@@ -53,7 +53,7 @@ export default function Navbar({ items }: { items: NavItem[] }) {
         >
           <span className="h-2 w-2 rounded-full bg-indigo-400 shadow-[0_0_18px_rgba(99,102,241,0.75)]" />
           <span className="text-sm font-semibold text-text-200 transition group-hover:text-white">
-            YourName.dev
+            AditPatil.dev
           </span>
         </button>
 
