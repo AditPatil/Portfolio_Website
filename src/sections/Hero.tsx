@@ -57,7 +57,7 @@ export default function Hero() {
               transition={{ duration: 0.7, delay: 0.05, ease: 'easeOut' }}
               className="mt-6 text-4xl font-semibold tracking-tight text-text-100 sm:text-5xl lg:text-6xl"
             >
-              Hi, I’m <span className="heading-gradient">Your Name</span>.
+              Hi, I’m <span className="heading-gradient">Adit Patil</span>.
             </motion.h1>
 
             <motion.p
