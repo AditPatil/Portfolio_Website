@@ -1,12 +1,12 @@
 import { motion } from 'framer-motion'
 import {
   SiC,
-  SiCss,
+  
   SiExpress,
   SiFigma,
   SiGit,
   SiGithub,
-  SiHtml5,
+  
   SiJavascript,
   SiMongodb,
   SiMysql,
